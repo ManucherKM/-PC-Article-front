@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='container text-white'>Все статьи</div>
+    <div className='container'>Все статьи</div>
   )
 }
 

@@ -11,10 +11,10 @@ const Navbar = () => {
                 <div>
                     <ul className="flex">
                         <li className="mr-4">
-                            <Link className="text-base px-4 py-2 border border-lightgreen rounded-lg text-lightgreen" to="/register">Войти</Link>
+                            <Link className="text-base px-4 py-2 border border-lightgreen rounded-lg text-lightgreen" to="/login">Вход</Link>
                         </li>
                         <li>
-                            <Link className="text-base px-4 py-2 bg-lightgreen rounded-lg text-white" to="/login">Регистрация</Link>
+                            <Link className="text-base px-4 py-2 bg-lightgreen rounded-lg text-white" to="/register">Регистрация</Link>
                         </li>
                     </ul>
                 </div>
